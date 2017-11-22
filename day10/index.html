@@ -99,12 +99,10 @@ When a user clicks a checkbox, holds Shift, and then clicks another checkbox a f
                console.log(checkbox);
                if(checkbox === this || checkbox === lastChecked){
                    inBetween = !inBetween;
-                   console.log('choose');
                }
                if(inBetween){
                    checkbox.checked = true;
                }
-
             });
         }
         lastChecked = this;
