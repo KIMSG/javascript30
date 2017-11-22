@@ -6,3 +6,4 @@ day6 - 검색어&JSON&실시간 <br>
 day7 - array 2 <br>
 day8 - canvas <br>
 day9 - console의 다양성 <br>
+day10 - shift로 checkbox쭉 선택하기 <br>
