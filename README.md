@@ -9,3 +9,4 @@ day9 - console의 다양성 <br>
 day10 - shift로 checkbox쭉 선택하기 <br>
 day11 - 비디오 재생 <br>
 day12 - 키보드 입력값으로 문자열 찾기<br>
+day13 - 스크롤을 사용해서 이미지 나타내기 <br>
